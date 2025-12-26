@@ -1,0 +1,29 @@
+manifestVersion: 1
+id: ens3s0f1-app-store-flarum
+category: social
+name: Flarum
+version: "v1.3.0"
+tagline: Modern, fast & free community software
+description: >-
+  Flarum is a delightfully simple discussion platform for your website. It's fast, free, and easy to use, with all the features you need to run a successful community. It's also extremely extensible, allowing for ultimate customizability.
+
+  Flarum is the combined successor of esoTalk and FluxBB. It is designed to be:
+
+    • Fast and simple. No clutter, no bloat, no complex dependencies. Flarum is built with PHP so it’s quick and easy to deploy. The interface is powered by Mithril, a performant JavaScript framework with a tiny footprint.
+
+    • Beautiful and responsive. This is forum software for humans. Flarum is carefully designed to be consistent and intuitive across platforms, out-of-the-box.
+
+    • Powerful and extensible. Customize, extend, and integrate Flarum to suit your community. Flarum’s architecture is amazingly flexible, with a powerful Extension API.
+
+    • Free and open. Flarum is released under the MIT license.
+releaseNotes: ""
+developer: Flarum Foundation
+website: https://flarum.org
+dependencies: []
+repo: https://github.com/flarum/flarum
+support: https://discuss.flarum.org/
+port: 8888
+gallery: []
+path: ""
+defaultUsername: "admin"
+defaultPassword: "G7d2K9q4V1p8Z3s6X0rB"
